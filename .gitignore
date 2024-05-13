@@ -1,0 +1,13 @@
+app.log
+.DS_Store
+src/helpers/helpers_old.py
+src/helpers/helpers.py
+__pycache__/
+*.pyc
+.travis.yml
+screenshots/
+report/
+.idea/
+dump/
+.pytest_cache/
+venv/

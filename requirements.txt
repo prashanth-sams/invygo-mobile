@@ -1,0 +1,5 @@
+Appium-Python-Client
+selenium
+pytest
+invoke
+pytest-html-reporter
